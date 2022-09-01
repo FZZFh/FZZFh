@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FZZFh
-- 👀 I’m interested in C++ Linux
+- 👀 I’m interested in C++ Python
 - 🌱 I’m currently learning TCP/IP protocol
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
